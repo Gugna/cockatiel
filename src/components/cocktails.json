@@ -1,0 +1,7 @@
+[
+    {"cocktailName": "Mojito", "image": "src/images/mojito.jpg", "ingredients": ["2 oz Rum", "1 oz Lime Juice", "1 oz Simple Syrup", "5-7 Fresh Mint Leaves", "Seltzer or Soda Water"], "method" : ["Muddle the mint leaves with the lime and syrup", "Add Rum and stir", "Top with Seltzer or Soda Water", "garnish with mint sprig"]},
+    {"cocktailName": "Cuba Libre", "image": "src/images/cubalibre.jpg", "ingredients": ["2 oz light  Rum", "1/2 oz Lime Juice", "4 oz Coke"], "method": ["Stir rum with Lime Juice and ice", "Top with Coke"]},
+    {"cocktailName": "Daiquiri", "image": "src/images/daiquiri.jpg", "ingredients": ["2 oz light Rum", "1 oz and a tsp Lime Juice", "1/2 oz Simple Syrup"], "method": ["Shake ingredients with ice", "Serve in a chilled coupe glass"]},
+    {"cocktailName": "MaiTai", "image": "src/images/maitai.jpg", "ingredients": ["2 oz (aged) Rum", "1/2 oz Orgeat", "1 oz Lime Juice", "3/4 oz Orange Curaçao", "Lime Wheel & Mint"], "method": ["Shake all ingredients with crushed ice", "Dump on empty glass", "Top with extra crushed ice", "Garnish with Lime Wheel and Mint"]}
+
+]
