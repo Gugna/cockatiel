@@ -1,7 +1,191 @@
 [
-    {"cocktailName": "Mojito", "image": "src/images/mojito.jpg", "ingredients": ["2 oz Rum", "1 oz Lime Juice", "1 oz Simple Syrup", "5-7 Fresh Mint Leaves", "Seltzer or Soda Water"], "method" : ["Muddle the mint leaves with the lime and syrup", "Add Rum and stir", "Top with Seltzer or Soda Water", "garnish with mint sprig"]},
-    {"cocktailName": "Cuba Libre", "image": "src/images/cubalibre.jpg", "ingredients": ["2 oz light  Rum", "1/2 oz Lime Juice", "4 oz Coke"], "method": ["Stir rum with Lime Juice and ice", "Top with Coke"]},
-    {"cocktailName": "Daiquiri", "image": "src/images/daiquiri.jpg", "ingredients": ["2 oz light Rum", "1 oz and a tsp Lime Juice", "1/2 oz Simple Syrup"], "method": ["Shake ingredients with ice", "Serve in a chilled coupe glass"]},
-    {"cocktailName": "MaiTai", "image": "src/images/maitai.jpg", "ingredients": ["2 oz (aged) Rum", "1/2 oz Orgeat", "1 oz Lime Juice", "3/4 oz Orange Curaçao", "Lime Wheel & Mint"], "method": ["Shake all ingredients with crushed ice", "Dump on empty glass", "Top with extra crushed ice", "Garnish with Lime Wheel and Mint"]}
-
+    {
+        "cocktailName": "Mojito",
+        "image": "src/images/mojito.jpg",
+        "ingredients": [
+            "2 oz Rum",
+            "1 oz Lime Juice",
+            "1 oz Simple Syrup",
+            "5-7 Fresh Mint Leaves",
+            "Seltzer or Soda Water"
+        ],
+        "method": [
+            "Muddle the mint leaves with the lime and syrup, Add Rum and stir, Top with Seltzer or Soda Water, garnish with mint sprig"
+        ]
+    },
+    {
+        "cocktailName": "Cuba Libre",
+        "image": "src/images/cubalibre.jpg",
+        "ingredients": [
+            "2 oz light  Rum",
+            "1/2 oz Lime Juice",
+            "4 oz Coke"
+        ],
+        "method": [
+            "Stir rum with Lime Juice and ice, Top with Coke"
+        ]
+    },
+    {
+        "cocktailName": "Daiquiri",
+        "image": "src/images/daiquiri.jpg",
+        "ingredients": [
+            "2 oz light Rum",
+            "1 oz and a tsp Lime Juice",
+            "1/2 oz Simple Syrup"
+        ],
+        "method": [
+            "Shake ingredients with ice, Serve in a chilled coupe glass"
+        ]
+    },
+    {
+        "cocktailName": "MaiTai",
+        "image": "src/images/maitai.jpg",
+        "ingredients": [
+            "2 oz (aged) Rum",
+            "1/2 oz Orgeat",
+            "1 oz Lime Juice",
+            "3/4 oz Orange Curaçao",
+            "Lime Wheel & Mint"
+        ],
+        "method": [
+            "Shake all ingredients with crushed ice, Dump on empty glass, Top with extra crushed ice, Garnish with Lime Wheel and Mint"
+        ]
+    },
+    {
+        "cocktailName": "Jungle Bird",
+        "ingredients": [
+            "3/2 oz Rum (Dark)",
+            "1/2 oz Lime Juice",
+            "1/2 oz Simple Syrup",
+            "3/2 oz Pineapple Juice",
+            "3/4 oz Campari"
+        ],
+        "method": [
+            "Shake ingredients with ice, Strain into glass, Garnigh with Pineapple leaf"
+        ]
+    },
+    {
+        "cocktailName": "Vous L' Evou",
+        "ingredients": [
+            "2 oz Rum (Light)",
+            "3/4 oz Lime Juice",
+            "3/4 oz Cointreau/Orange Curaçao",
+            "1/2 oz Simple Syrup",
+            "6-8 Mint Leaves",
+            "Pineapple Juice"
+        ],
+        "method": [
+            "Muddle mint leaves in shaker, add ingredients and shake with ice, strain in glass, top with pineapple juice"
+        ]
+    },
+    {
+        "cocktailName": "Shrunken Skull",
+        "ingredients": [
+            "2 oz Rum (Dark)",
+            "1 oz Lime Juice",
+            "1 oz Grenadine"
+        ],
+        "method": [
+            "Shake ingredients with ice, strain into low glass, Garnish with Pomegranate seeds inside a lime shell"
+        ]
+    },
+    {
+        "cocktailName": "Rattle Skull",
+        "ingredients": [
+            "1 oz Rum (Dark)",
+            "1 oz Brandy",
+            "1/2 oz Rich Demerara Syrup",
+            "3/4 oz Lime Juice",
+            "11 oz Stout Beer (small can)"
+        ],
+        "method": [
+            "Shake ingredients (except beer) with ice, strain into glass, Garnish with nutmeg"
+        ]
+    },
+    {
+        "cocktailName": "White Sangria",
+        "ingredients": [
+            "1/2 oz Rum (white)",
+            "1 oz Cointreau/Orange Curaçao",
+            "Cubed seasonal fruit",
+            "Top with sparkling white wine"
+        ],
+        "method": [
+            "Pour ingredients in wine glass, stir with cubed ice"
+        ]
+    },
+    {
+        "cocktailName": "Rum Runner",
+        "ingredients": [
+            "3/2 oz Rum (Dark)",
+            "1 oz Banana Liqueur",
+            "1 oz Creme de Cassis",
+            "1 oz Pineapple Juice",
+            "1 oz Lime Juice",
+            "1/2 oz Grenadine"
+        ],
+        "method": [
+            "Shake ingredients with ice, strain in highball glass"
+        ]
+    },
+    {
+        "cocktailName": "Airmail",
+        "ingredients": [
+            "1 oz Rum",
+            "1/2 oz Lime Juice",
+            "1/2 oz Honey Syrup (2:1)",
+            "2 to 3 oz Sparkling Wine"
+        ],
+        "method": [
+            "Shake ingredients with ice, strain in highball glass"
+        ]
+    },
+    {
+        "cocktailName": "Margarita",
+        "ingredients": [
+            "2 oz Tequila",
+            "1 oz Lime Juice",
+            "1 oz Orange Curaçao/Cointreau",
+            "1/4 oz Agave Syrup"
+        ],
+        "method": [
+            "Shake ingredients with ice, Serve in a Salt Rimmed Coupe with pebble ice, Garnish with a Lime Wheel"
+        ]
+    },
+    {
+        "cocktailName": "Paloma",
+        "ingredients": [
+            "2 oz Tequila (Blanco)",
+            "3/4 oz Simple Syrup",
+            "1/2 oz Lime Juice",
+            "Grapefruit soda"
+        ],
+        "method": [
+            "Pour ingredients into highball glass, stir with ice, top with grapefruit soda, Optionally salt the rim"
+        ]
+    },
+    {
+        "cocktailName": "Infante",
+        "ingredients": [
+            "2 oz Tequila",
+            "3/4 oz Lime Juice",
+            "3/4 oz Orgeat"
+        ],
+        "method": [
+            "Garnish with Nutmeg Powder, Shake ingredients with ice, Serve in low glass"
+        ]
+    },
+    {
+        "cocktailName": "Original Tequila Sunrise",
+        "ingredients": [
+            "3/2 oz Tequila",
+            "3/4 oz Creme de Cassis",
+            "1/2 oz Lime Juice",
+            "1 dash Angostura Bitters",
+            "Soda"
+        ],
+        "method": [
+            "Shake ingredients with ice, pour ingredients in highball glass, Top with soda"
+        ]
+    }
 ]
